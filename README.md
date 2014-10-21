@@ -6,12 +6,28 @@ Node Rest Api Example - Hapi, Joi, Node, Swagger, Mocha
 Prerequisites
 =========
 
-  mongo version 2.6.4
-  npm
-  make
+- mongo version 2.6.4
+- npm
+- make
   
 Deployment
 =========
+
+  Install dependencies:
+
+    $ npm install
+
+  Start mongod (in separate window)
+
+    $ mongod
+
+  Start application (in separate window)
+
+    $ npm start
+ 
+  Start tests (in same window as dependency installation)
+
+    $ npm test
 
 
 
@@ -26,3 +42,7 @@ Additional Notes
 - The application should compile and execute correctly.
 
 - Please make sure that you have Unit Tests.
+
+
+##License
+  MIT
