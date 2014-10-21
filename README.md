@@ -28,9 +28,10 @@ Deployment
   Start tests (in same window as dependency installation)
 
     $ npm test
-    
-  Server starts at: http://localhost:3000/
-  REST API docs at: http://localhost:3000/documentation
+
+
+* Server starts at: http://localhost:3000/
+* REST API docs at: http://localhost:3000/documentation
 
 
 Additional Notes
